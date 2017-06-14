@@ -61,11 +61,18 @@ p a:hover, li a:hover {
   margin: 0;
 }
 
-.cv ul li{
+ul li{
   list-style-type: none;
-  margin: 0;
+  margin: 10px 0;
 }
 
+h2 {
+  font-size: 14px;
+}
+
+.cv ul li{
+  margin: 0;
+}
 .cv li em:first-child {
   font-style: normal;
 }
