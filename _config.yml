@@ -16,8 +16,8 @@ collections:
     output: true
 email: dev@adriandiaz.ca
 description: Cass Elliott's artist portfolio
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
