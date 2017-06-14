@@ -6,8 +6,14 @@
 
       <h6>*</h6>
 
+
+
+
       <ul>
-        <li><a href="/Painting">Painting</a></li>
+      {% for collection in site.collections %}
+    <li><a href="/{{ collection.label }}">{{ collection.label }}</a></li>
+{% endfor %}
+        <li><a href="/Painting">Hardcoded</a></li>
         <li><a href="/Sculpture">Sculpture</a></li>
         <li><a href="/Photography">Photography</a></li>
         <li><a href="/PublicWorks">Public Works</a></li>
