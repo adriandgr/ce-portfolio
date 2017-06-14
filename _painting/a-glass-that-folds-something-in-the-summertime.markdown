@@ -7,5 +7,5 @@ layout: artwork
 ![glass-that-folds.jpg](/uploads/glass-that-folds.jpg)
 
 - A Glass That Folds Something in the Summertime
-- Oil on Canvas and Mixed Textile
+- oil on canvas and mixed textile
 
