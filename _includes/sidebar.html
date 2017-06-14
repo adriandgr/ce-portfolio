@@ -6,19 +6,8 @@
 
       <h6>*</h6>
 
-
-
-
-      <ul>
-      {% for collection in site.collections %}
-      {% if collection.label == 'posts' %}{% elsif collection.label == 'uploads' %}{% else %}
-    <li><a href="/{{ collection.label }}">{{ collection.label | capitalize }}</a></li>
-    {% endif %}
-{% endfor %}
-        <li><a href="/Painting">Hardcoded</a></li>
-        <li><a href="/Sculpture">Sculpture</a></li>
-        <li><a href="/Photography">Photography</a></li>
-        <li><a href="/PublicWorks">Public Works</a></li>
+      <ul>{% for collection in site.collections %}{% if collection.label == 'posts' %}{% elsif collection.label == 'uploads' %}{% else %}
+        <li><a href="/{{ collection.label }}">{{ collection.label | capitalize }}</a></li>{% endif %}{% endfor %}
         <li><a href="/contact">Contact</a></li>
         <li><a href="/cv">CV</a></li>
       </ul>
