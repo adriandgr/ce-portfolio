@@ -11,7 +11,7 @@
 
       <ul>
       {% for collection in site.collections %}
-      {% if collection.label == 'posts' %}{% elseif collection.label == 'uploads' %}{% else %}
+      {% if collection.label == 'posts' %}{% elsif collection.label == 'uploads' %}{% else %}
     <li><a href="/{{ collection.label }}">{{ collection.label | capitalize }}</a></li>
     {% endif %}
 {% endfor %}
