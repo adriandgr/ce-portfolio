@@ -1,0 +1,76 @@
+::selection { background-color: rgba(255,255,255,0.6); }
+::-moz-selection { background-color: rgba(255,255,255,0.6); }
+body {
+  font-family: monospace;
+  color: #000000;
+  background: #fcebd5;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Brutal Type', sans-serif;
+  font-weight: bold;
+  color: #000a0e;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+a:hover h1, a:hover h2, a:hover h3, a:hover h4, a:hover h5, a:hover h6 {
+  color: #FFFFFF;
+}
+p a:hover, li a:hover {
+  background-color: rgba(255,255,255,0.6);
+}
+#sidebar_portrait {
+  background-image: url("http://68.media.tumblr.com/avatar_8b34cb75b455_128.png");
+}
+#sidebar h6 {
+  color: #000000;
+}
+#sidebar li a {
+  border-bottom-style: none;
+  color: #000a0e;
+}
+#search::-webkit-input-placeholder {
+  color: #000a0e;
+}
+#search::-moz-input-placeholder {
+  color: #000a0e;
+}
+#search:-moz-input-placeholder {
+  color: #000a0e;
+}
+#search:-ms-input-placeholder {
+  color: #000a0e;
+}
+.post .link_container {
+  background-color: #000000;
+  color: #fcebd5;
+}
+.post .link_container:after {
+  border-color: rgba(252,235,213,0.4);
+}
+.post .link_container:hover:after {
+  border-color: rgba(252,235,213,0.8);
+}
+.post .read_more {
+  border-color: #000000;
+}
+#post_information h6 {
+  color: #000000;
+}
+
+.bio p {
+  margin: 0;
+}
+
+.cv ul li{
+  list-style-type: none;
+  margin: 0;
+}
+
+.cv li em:first-child {
+  font-style: normal;
+}
+
+.cv li em:first-child::after{
+  content: "\00a0 \00a0";
+
+}
