@@ -5,6 +5,12 @@ body {
   color: #000000;
   background: #fcebd5;
 }
+
+@font-face {
+  font-family: 'Brutal Type';
+  src: url('https://assets.tumblr.com/fonts/brutaltype/BrutalType-Bold-webfont.woff') format('woff');
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Brutal Type', sans-serif;
   font-weight: bold;
@@ -12,15 +18,19 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 2px;
   text-transform: uppercase;
 }
+
+h2 {
+  font-size: 14px;
+  margin-bottom: 5px!important;
+}
+
 a:hover h1, a:hover h2, a:hover h3, a:hover h4, a:hover h5, a:hover h6 {
   color: #FFFFFF;
 }
 p a:hover, li a:hover {
   background-color: rgba(255,255,255,0.6);
 }
-#sidebar_portrait {
-  background-image: url("http://68.media.tumblr.com/avatar_8b34cb75b455_128.png");
-}
+
 #sidebar h6 {
   color: #000000;
 }
@@ -28,18 +38,7 @@ p a:hover, li a:hover {
   border-bottom-style: none;
   color: #000a0e;
 }
-#search::-webkit-input-placeholder {
-  color: #000a0e;
-}
-#search::-moz-input-placeholder {
-  color: #000a0e;
-}
-#search:-moz-input-placeholder {
-  color: #000a0e;
-}
-#search:-ms-input-placeholder {
-  color: #000a0e;
-}
+
 .post .link_container {
   background-color: #000000;
   color: #fcebd5;
@@ -65,12 +64,15 @@ ul li{
   list-style-type: none;
   margin: 10px 0;
 }
-
-h2 {
-  font-size: 14px;
+ul {
+  margin: 0;
 }
 
-.cv ul li{
+.artwork ul li:first-child {
+  font-style: italic;
+}
+
+.cv ul li, .artwork ul li{
   margin: 0;
 }
 .cv li em:first-child {
