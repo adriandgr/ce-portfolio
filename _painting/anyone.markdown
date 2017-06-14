@@ -6,4 +6,5 @@ layout: artwork
 
 ![anyone.jpg](/uploads/anyone.jpg)
 
-Anyone
+- Anyone
+- oil on canvas
