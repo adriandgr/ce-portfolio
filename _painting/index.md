@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Index
+layout: post
 ---
 
 hello
