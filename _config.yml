@@ -1,16 +1,25 @@
+---
 title: Cass Elliott
+timezone: UTC
+collections:
+  painting:
+    title: Painting
+    output: true
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: dev@adriandiaz.ca
 description: Cass Elliott's artist portfolio
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ''
+url: ''
 twitter_username: jekyllrb
-github_username:  jekyll
-
-# Build settings
+github_username: jekyll
 markdown: kramdown
-
 gems:
-  - jekyll-feed
+- jekyll-feed
 exclude:
-  - Gemfile
-  - Gemfile.lock
+- Gemfile
+- Gemfile.lock
