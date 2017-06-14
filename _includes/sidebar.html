@@ -11,7 +11,7 @@
 
       <ul>
       {% for collection in site.collections %}
-      {% unless collection.label == 'uploads' || collection.label == 'posts' %}
+      {% unless collection.label == 'posts' || collection.label == 'uploads' %}
     <li><a href="/{{ collection.label }}">{{ collection.label }}</a></li>
     {% endunless %}
 {% endfor %}
