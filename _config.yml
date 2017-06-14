@@ -2,6 +2,9 @@
 title: Cass Elliott
 timezone: UTC
 collections:
+  painting:
+    title: Painting
+    output: true
   posts:
     title: Posts
     output: true
