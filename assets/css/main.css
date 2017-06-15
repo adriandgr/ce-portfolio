@@ -39,21 +39,8 @@ p a:hover, li a:hover {
   color: #000a0e;
 }
 
-.post .link_container {
-  background-color: #000000;
-  color: #fcebd5;
-}
-.post .link_container:after {
-  border-color: rgba(252,235,213,0.4);
-}
-.post .link_container:hover:after {
-  border-color: rgba(252,235,213,0.8);
-}
-.post .read_more {
-  border-color: #000000;
-}
-#post_information h6 {
-  color: #000000;
+#posts {
+  max-width: 600px;
 }
 
 .bio p {
