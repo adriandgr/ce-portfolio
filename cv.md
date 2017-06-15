@@ -31,3 +31,16 @@ layout: cv
 - *2015* Sun God circa 1970, Co-Curator, tag Contemporary, Vancouver BC
 - *2015* Pistachio Tree, Co-Curator, tag Contemporary, Vancouver BC
 - *2015* The Moment of Concern, Co-Curator, tag Contemporary, Vancouver BC
+
+## Publications
+
+- *2014* Thought Pad, blog, Vancouver BC
+- *2014* The Shifting, blog, Vancouver BC
+- *2014* Manifestos, Groat, Maggie (curator), independently published, Vancouver BC
+- *2014* The Casual Gesture, Totino, Mina (curator), designed by Karina Irvine, Publication Studio, Vancouver BC
+
+## Grants + Awards
+
+- *2014* Artist Guild Award, Vancouver BC
+- *2014* Norma Sorenson Artist Scholarship
+
