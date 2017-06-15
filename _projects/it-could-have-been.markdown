@@ -1,6 +1,7 @@
 ---
 title: It Could Have Been
 date: 2017-06-15 15:10:00 Z
+layout: post
 ---
 
 - **Curator:** Cass Elliott
