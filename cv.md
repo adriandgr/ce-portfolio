@@ -6,35 +6,28 @@ layout: cv
 
 ## Education
 
-- *2017* BFA, Painting, Emily Carr University of Art + Design, Vancouver BC
+- *2015* BFA, Visual Arts, Emily Carr University of Art + Design, Vancouver BC
+- *2011* BA magna cum laude, Psychology, University of Ottawa, Ontario
 
 ## Selected Exhibitions
 
-- *2016* Not For Sale, Emily Carr University of Art + Design, Vancouver, BC
-- *2016* Relationshapes, Padlock Studios, Kamloops, BC
-- *2016* Art Show, Pop-up location, Vancouver, BC
-- *2016* Blow-Over, Roc Y Gallery, Burnaby, BC
-- *2015* No Empty Chairs, Emily Carr University of Art + Design, Vancouver, BC
-- *2015* Super Basic, Skylight Gallery, Vancouver, BC
-- *2015* Zamboni, Emily Carr University of Art + Design, Vancouver BC
-- *2014* Phase Out, 303 Columbia, Vancouver, BC
-- *2014* untitled exhibition, Globe Cinema, Calgary, AB
-- *2013* Post-Miniature, University of Calgary, Calgary, AB
-- *2013* Cenera Client Event, The Ranchmens Club, Calgary, AB
-- *2013* Push, Museum of Contemporary Art, Calgary, AB
-- *2012* Show-Off, Calgary Board of Education, Calgary, AB
-- *2012* Show-Off, Alberta College of Art + Design, Calgary, AB
+- *2015* Painting Forum, two artist show, Emily Carr University Library Mezzanine Gallery, Vancouver BC
+- *2015* #unrealizedProject, solo show, Emily Carr University Library Mezzanine Gallery, Vancouver BC 
+- *2015* It could have been..., group show, Emily Carr University Concourse Gallery, Vancouver BC
+- *2015* Pistachio Tree, group show, tag Contemporary, Vancouver BC
+- *2014* A Relational Moment, public performance, Robson Square & VAG, Vancouver BC
+- *2014* Douglas Coupland Works Harder Than You, public installation, Vancouver BC
+- *2014* Performance, live public performance, Lion's Gate Bridge, Vancouver BC
+- *2010* Making Strange: New Notions of the Real, Gallery 115, Ottawa ON
 
 ## Curatorial Projects
 
-- *2016* Not For Sale, The Neighbourhood Gallery, ECUAD, Vancouver, BC, November
-- *2016* just for fun Gallery, ECUAD, Vancouver, BC, Dec - April
-- *2015* SUPER BASIC, Skylight Gallery, Vancouver, BC, June
-- *2015* Zamboni, TAG gallery,  ECUAD, Vancouver, BC, March
+- *2014* tag Contemporary, Emily Carr University of Art + Design, Vancouver BC
 
-## Professional Experience
+## Exhibitions Curated
 
-- *2016* Mural Assistant, Hootsuite Mural, Vancouver Mural Festival, Vancouver, BC
-- *2016* Finalist, First Capital Realty Public Sculpture Contest, Vancouver, BC
-- *2016* Banner Designer, West Broadway Buisness Improvement Association, Vancouver, BC
-- *2015* Mural Assistant,  “Squad Goals” wall, Squamish Valley Music Festival, Squamish, BC
+- *2015* It could have been..., Curator, Emily Carr University Concourse Gallery, Vancouver BC
+- *2015* Awkward Is Not Ugly, Co-Curator, tag Contemporary, Vancouver BC
+- *2015* Sun God circa 1970, Co-Curator, tag Contemporary, Vancouver BC
+- *2015* Pistachio Tree, Co-Curator, tag Contemporary, Vancouver BC
+- *2015* The Moment of Concern, Co-Curator, tag Contemporary, Vancouver BC
