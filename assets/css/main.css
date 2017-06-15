@@ -76,7 +76,7 @@ ul {
   font-style: italic;
 }
 
-.cv ul li, .artwork ul li{
+.cv ul li, .artwork ul li, .post ul li {
   margin: 0;
 }
 .cv li em:first-child {
