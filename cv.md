@@ -43,4 +43,13 @@ layout: cv
 
 - *2014* Artist Guild Award, Vancouver BC
 - *2014* Norma Sorenson Artist Scholarship
+- *2014* W.G. Black Memorial Award
+- *2011* BA magna cum laude, Psychology, University of Ottawa
+- *2007* Community Volunteer Award, Grimsby ON
+- *2007* Benevolent Fund Award, Grimsby ON
+- *2007* Citizen of the Year, Grimsby ON
+
+## Related Experience
+- *2014-P* The Apartment Gallery, Associate Director, Vancouver BC
+- *2007-P* Brandee Elliott Foundation and Educational Projects, Chairman, Grimsby ON
 
