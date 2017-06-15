@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div id="posts">
+  {% assign category = page.collection %}
+  <h2>{{ category | capitalize }}</h2>
+
+  <ul>
+  {% for artwork in site.[category] %}
+  {% unless artwork.title == 'Index' %}
+    <li><a href="{{artwork.url}}">{{ artwork.title }}</a></li>
+  {% endunless%}
+  {% endfor %}
+  </ul>
+</div>
