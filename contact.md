@@ -4,5 +4,5 @@ permalink: "/contact/"
 layout: post
 ---
 
-feel free to contact me
+feel free to contact me at CASSELLIOTT@GMAIL.COM
 
